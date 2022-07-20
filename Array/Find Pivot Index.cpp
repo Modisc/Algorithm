@@ -1,3 +1,5 @@
+// 배열 nums가 입력으로 들어왔을 때
+// 왼쪽과 오른쪽의 합이 같게 하는 pivot index 구하기
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
